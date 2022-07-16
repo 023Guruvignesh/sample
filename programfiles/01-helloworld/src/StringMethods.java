@@ -16,7 +16,7 @@ public class StringMethods {
 		
 		System.out.println("Index of 1="+s.indexOf('1'));
 		System.out.println("Index of second 1="+s.indexOf('1',3));
-		System.out.println("Index of third 1="+);
+		System.out.println("Index of third 1");
 		
 		
 	}
